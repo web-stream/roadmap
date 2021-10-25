@@ -1,17 +1,76 @@
 # [docs.webstream.dev](https://roadmap.webstream.dev/#/)
 Roadmap of Web Stream Dev Project
 
-roadmap.webstream.dev
+## Tło
+
+Internet jest ideą łaczenia treści w sposób zdecentralizowany.
+Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwój funkcji clouser.
+Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
+
+Webstream odpowiada na potrzeby związane z budowaniem aplikacji w oparciu o treści i usługi dostępne do dystrybucji treści.
+Dodatkowo zakładamy, że strona www w przeglądarce nigdy się nie skończy, dając możliwość ciągłeo streamowania danych, 
+zmieniając interfejs, podłączając nowe usłgui w locie.
+
+Rezultat to brak potrzeby przełączania tabs.
+I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce w ustandaryzowany sposób.
+
+## Inne rozwiżania na rynku
+
+Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania
+przygotowywania kodu przez programiastę
+tutaj nawet nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
+dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
++ marketplace
++ edytor/generator
+
+## Czym jest Webstream?
 
 ## Sposób promowania
 
-Poprzez poszukiwanie pracy
+Poprzez ogłoszeniapracy
 wówczas jest możliwość zaangażowania juniorów do rozwoju samej biblioteki
 jak i używania potem tego rozwiąznia we własnych projektach
 organicznie poprzez uświadamianie
 bez nakładów na marketing
 
-Gdyż to rozwiązanie tehchniczne i mając dorbe rozwiązanie i developerów można szybko zdobyć kolejnych poprzez dzielenie się swoimi rozwiązaniami w społecznościach.
+Gdyż to rozwiązanie tehchniczne i mając dobre rozwiązanie i developerów można szybko zdobyć kolejnych poprzez dzielenie się swoimi rozwiązaniami w społecznościach.
+
+poniżej przykładowa oferta pracy, wymogi
+
+### oferta pracy dla programisty juniora dla rozwoju biblioteki
+
+Webstream junior developer
+znajomość technolgii:
++ html
++ css
++ js
+
+znajomość narzędzi:
++ dowolny edytor kodu
++ system wersjonowania plików git, github
++ narzędzia do komunikacji
+ 
+Atutem będzie 
++ aktywność na social mediach
++ własna, nawet prototypowa strona wizytówka, blog, newsletter, itp
++ inne formy promowania technologii 
+
+Nie wymagamy:
++ znajomości frameworków
++ zaawansowanych narzędzi do tworzenia i dystrybucji aplkacji w internecie
++ 40 godzinnnego trybu pracy
++ nadgodzin
+
+Co oferujemy:
++ Pracujesz kiedy masz możliwość
++ Minimalny czas pracy to 3h na jednym spotkaniu, nie więcej, nie mniej
++ dostajesz w tym czasie potrzebne wsparcie
++ po wykonaniu zadania rozliczenie
+
+Kontaktujemy się cyklicznie w uzgodnionym czasie i pracujemy nad kolejnymi zdaniami
+
+
+
 
 
 
