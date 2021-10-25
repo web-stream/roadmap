@@ -159,10 +159,23 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + patronite
 
 # Cele Projektu
+
 projekt opensource może być komercyjny i takim chcemy go uczynić aby był
 wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów
 w celu wypracowania najlepszego dla nich rozwiązania,
 Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
+
+
+## Co mamy dziś
+
++ działającą bibliotekę
++ potwierdzenie od kilku programistów, że to ciekawe rozwiązanie
++ brak społeczności
++ brak rozpoznawalności
++ brak zewnętrznego finansowania
+
+
+## Plany
 
 + rozwój oprogramowania
 + podwyższenie jakości
@@ -171,7 +184,6 @@ Następnie można skupić się na pielęgnacji już wypracowanej formy i przejś
 + zbieranie infromacji od społeczności, dosknalenie rozwiązania
 + tworzenie nowych kanałów dystrybucji
 + zwiększanie integracji w już istniejących rozwiazaniach
-
 
 
 ---
