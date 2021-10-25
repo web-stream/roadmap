@@ -1,4 +1,4 @@
-# [docs.webstream.dev](https://roadmap.webstream.dev/#/)
+# [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
 Roadmap of Web Stream Dev Project
 
 ## Tło
@@ -14,7 +14,7 @@ zmieniając interfejs, podłączając nowe usłgui w locie.
 Rezultat to brak potrzeby przełączania tabs.
 I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce w ustandaryzowany sposób.
 
-## Inne rozwiżania na rynku
+## Inne rozwiązania na rynku
 
 Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania
 przygotowywania kodu przez programiastę
@@ -25,9 +25,16 @@ dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż goto
 
 ## Czym jest Webstream?
 
+[docs.webstream.dev](https://docs.webstream.dev/#/)
+
 ## Sposób promowania
 
-Poprzez ogłoszeniapracy
+
++ ogłoszenia pracy, aktywny udział w projekcie
++ działalność ambasadorów projektu
++ influencerzy w IT
+
+### ogłoszenia
 wówczas jest możliwość zaangażowania juniorów do rozwoju samej biblioteki
 jak i używania potem tego rozwiąznia we własnych projektach
 organicznie poprzez uświadamianie
@@ -35,9 +42,9 @@ bez nakładów na marketing
 
 Gdyż to rozwiązanie tehchniczne i mając dobre rozwiązanie i developerów można szybko zdobyć kolejnych poprzez dzielenie się swoimi rozwiązaniami w społecznościach.
 
-poniżej przykładowa oferta pracy, wymogi
+poniżej przykładowa oferta pracy, wymogi:
 
-### oferta pracy dla programisty juniora dla rozwoju biblioteki
+#### oferta pracy dla programisty juniora dla rozwoju biblioteki
 
 Webstream junior developer
 znajomość technolgii:
