@@ -78,6 +78,14 @@ Co oferujemy:
 
 Kontaktujemy się cyklicznie w uzgodnionym czasie i pracujemy nad kolejnymi zdaniami
 
+Zadania
++ refaktoryzacja kodu
++ naprawieanie błędów
++ dodawanie nowych modułów
++ tworzenie testów
++ dokumentowanie
++ tworzenie przykładów
++ samouczki, kursy dla chętnych do używania tej bbiblioteki
 
 
 
