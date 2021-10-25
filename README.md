@@ -24,7 +24,7 @@ Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania, przygotowy
 ## Ekosystem 
 + PL [Roadmap of wapka project](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
-+ 
+ 
 Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
 dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
