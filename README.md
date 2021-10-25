@@ -8,6 +8,8 @@ Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwó
 Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
 
 Webstream odpowiada na potrzeby związane z budowaniem aplikacji w oparciu o treści i usługi dostępne do dystrybucji treści.
+Został stworzony jako część ekosystemu do prototypowania: [wapka.pl - Roadmap of wapka project](https://roadmap.wapka.pl/)
+
 Dodatkowo zakładamy, że strona www w przeglądarce nigdy się nie skończy, dając możliwość ciągłeo streamowania danych, 
 zmieniając interfejs, podłączając nowe usłgui w locie.
 
@@ -20,8 +22,15 @@ Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania
 przygotowywania kodu przez programiastę
 tutaj nawet nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
 dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
-+ marketplace
-+ edytor/generator
+
++ marketplace:
+ + PL [roadmap.application.pl](https://roadmap.application.pl/#/) 
+ + EU [roadmap.webapks.com](https://roadmap.webapks.com/)
++ edytor/komunikator/generator:
+ + PL [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/) 
+ + EU [roadmap.oneday.run](https://roadmap.oneday.run/#/)
++ specjalizowane narzędziaa:
+ + ...  
 
 ## Czym jest Webstream?
 
