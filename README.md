@@ -106,6 +106,7 @@ Gdyż to rozwiązanie tehchniczne i mając dobre rozwiązanie i developerów mo�
 poniżej przykładowa oferta pracy, wymogi:
 
 #### oferta pracy dla programisty juniora dla rozwoju biblioteki
+
 Junior to nie zawsze student,
 to także osoba, która zmienia zawód.
 Która może mieć wiedzę o biznesie, który ma zapotrzebowanie na rozwiązanie typu webstream.
