@@ -8,7 +8,8 @@ Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwó
 Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
 
 Webstream odpowiada na potrzeby związane z budowaniem aplikacji w oparciu o treści i usługi dostępne do dystrybucji treści.
-Został stworzony jako część ekosystemu do prototypowania: [wapka.pl - Roadmap of wapka project](https://roadmap.wapka.pl/)
+Został stworzony jako część ekosystemu do prototypowania: 
+[wapka.pl - Roadmap of wapka project](https://roadmap.wapka.pl/)
 
 Dodatkowo zakładamy, że strona www w przeglądarce nigdy się nie skończy, dając możliwość ciągłeo streamowania danych, 
 zmieniając interfejs, podłączając nowe usłgui w locie.
@@ -105,7 +106,6 @@ Poszerzanie grona użytkowników:
 + plugin do przeglądarek
 + plugin do narzędzia
 + strony www do generowania specjalizowanych apek, tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
-
 
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
 
