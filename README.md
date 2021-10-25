@@ -221,7 +221,7 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + patronite
 
 
-## O firmie Softreck
+# O firmie Softreck
 + [Softreck - Leadership Through Software Development](https://softreck.pl/)
 + [culture.softreck.dev](https://culture.softreck.dev/#/)
 
