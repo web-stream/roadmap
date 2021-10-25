@@ -121,7 +121,10 @@ tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 
 # Finansowanie
 
-## Sponsoring 
+## Sponsoring
+firmy i ludzie wykrozystujący bibliotekę, mogą dofinansować projet, aby 
+był rozwijany i przynosił im korzyści pozwalając aztrudniać juniorówu u siebie do rozwijania paliakcji opartych o webstream
+zmniejszając koszty w organziacji
 + na platformie github
 + ...
 
