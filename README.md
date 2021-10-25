@@ -47,8 +47,13 @@ Gdyż to rozwiązanie tehchniczne i mając dobre rozwiązanie i developerów mo�
 poniżej przykładowa oferta pracy, wymogi:
 
 #### oferta pracy dla programisty juniora dla rozwoju biblioteki
+Junior to nie zawsze student,
+to także osoba, która zmienia zawód.
+Która może mieć wiedzę o biznesie, który ma zapotrzebowanie na rozwiązanie typu webstream.
 
-Webstream junior developer
+
+#### Webstream junior developer
+
 znajomość technolgii:
 + html
 + css
@@ -122,9 +127,10 @@ tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 # Finansowanie
 
 ## Sponsoring
-firmy i ludzie wykrozystujący bibliotekę, mogą dofinansować projet, aby 
-był rozwijany i przynosił im korzyści pozwalając aztrudniać juniorówu u siebie do rozwijania paliakcji opartych o webstream
-zmniejszając koszty w organziacji
+software house-y i freelancerzy wykrozystujący bibliotekę, mogą dofinansować projekt i mieć wpływ na jego rozwój.
+aby był aktualziowany, rozwijany i przynosił im korzyści pozwalając zatrudniać juniorów u siebie do rozwijania aplikacji opartych o webstream
+zmniejszając koszty prowadzenia prototypowych projektów.
+
 + na platformie github
 + ...
 
