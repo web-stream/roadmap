@@ -25,7 +25,11 @@ specjalizowane narzędzia:
 ## Czym jest Webstream?
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
++ [principles.webstream.dev](https://principles.webstream.dev/#/)
 + [www.webstream.dev](https://www.webstream.dev)
+
+Dokumentacja
+
 + [docs.webstream.dev](https://docs.webstream.dev)
 + [src.webstream.dev](https://src.webstream.dev/#/)
 + [demo.webstream.dev](https://demo.webstream.dev)
