@@ -57,7 +57,8 @@ Następnie można skupić się na pielęgnacji już wypracowanej formy i przejś
 
 ## Co mamy dziś
 
-+ działającą bibliotekę
++ działającą bibliotekę 
++ kilka przykładowych zastosowań [demo.webstream.dev](https://demo.webstream.dev)
 + potwierdzenie od kilku programistów, że to ciekawe rozwiązanie
 + brak społeczności
 + brak rozpoznawalności
