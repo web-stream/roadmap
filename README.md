@@ -65,7 +65,9 @@ Następnie można skupić się na pielęgnacji już wypracowanej formy i przejś
 + brak zewnętrznego finansowania
 
 
-## Plany
+
+## Plany
+
 
 + rozwój oprogramowania
 + podwyższenie jakości
