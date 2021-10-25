@@ -68,6 +68,8 @@ Następnie można skupić się na pielęgnacji już wypracowanej formy i przejś
 + brak rozpoznawalności
 + brak zewnętrznego finansowania
 
+## przykładowe aplikacje:
++ [FaaS](https://www.faas.ovh/#app-list)
 
 
 ## Plany
