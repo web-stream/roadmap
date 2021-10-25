@@ -38,10 +38,6 @@ For contributors
 + [tools.webstream.dev](https://tools.webstream.dev/#/)
 + [task.webstream.dev](https://task.webstream.dev)
 
-Roadmap of Web Stream Dev Project
-+ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
-
-
 
 ## Cele Projektu
 
@@ -75,6 +71,36 @@ Następnie można skupić się na pielęgnacji już wypracowanej formy i przejś
 + tworzenie nowych kanałów dystrybucji
 + zwiększanie integracji w już istniejących rozwiazaniach
 
+
+# Środowisko
+
+## Devops
+
+Domena + dns + vps
+
++ dns
+    + cloduflare 
+      + API
+      + SSL
+      + Docker
+      + No Plesk
+    + digitalocean
+      + limit domen 100 ...
+      + plesk
+      + NO VERIFACTION, przypisana lifetime do jednej maszyny/client
+      + 
+    + własny hosting, ionos / NO API
+
+# Komercjalizacja
+
+## Softreck.Cloud
+
+Marketplace providerów
+Integracja API providerów:
++ domen
++ serverów
+
+Udostepnianie usług
 
 ## Jakie finansowanie może optymalnie przyśpieszyć rozwój?
 
@@ -157,6 +183,7 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
 
 # O firmie Softreck
+
 + [Softreck - Leadership Through Software Development](https://softreck.pl/)
 + [culture.softreck.dev](https://culture.softreck.dev/#/)
 
