@@ -31,10 +31,12 @@ dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż goto
 
 
 + ogłoszenia pracy, aktywny udział w projekcie
-+ działalność ambasadorów projektu
-+ influencerzy w IT
++ działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
++ influencerzy w IT, aktywowanie społeczności, informowanie
 
-### ogłoszenia
+
+### ogłoszenia pracy jako forma aktywizacji oraz zaangażowania we współprcę
+
 wówczas jest możliwość zaangażowania juniorów do rozwoju samej biblioteki
 jak i używania potem tego rozwiąznia we własnych projektach
 organicznie poprzez uświadamianie
@@ -109,6 +111,19 @@ zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 ## strony www do generowania specjalizowanych apek, 
 tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 
+# Finansowanie
+
+## Sponsoring 
++ na platformie github
++ ...
+
+## crowdufunding dla projektów opensource
++ https://opencollective.com/webstream
+
+## Crowdfunding dla twórców
++ patronite
+
+##
 
 
 ---
