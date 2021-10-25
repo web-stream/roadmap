@@ -18,19 +18,25 @@ I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce
 
 ## Inne rozwiązania na rynku
 
-Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania
-przygotowywania kodu przez programiastę
-tutaj nawet nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
+Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania, przygotowywania kodu przez programiastę
+
+
+## Ekosystem [Roadmap of wapka project | roadmap](https://roadmap.wapka.pl/) / [roadmap.modula.dev](https://roadmap.modula.dev/#/)
+Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
 dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
-+ marketplace:
+marketplace aplikacji i modułów opartych o webstream:
  + PL [roadmap.application.pl](https://roadmap.application.pl/#/) 
  + EU [roadmap.webapks.com](https://roadmap.webapks.com/)
-+ edytor/komunikator/generator:
+ 
+
+edytor/komunikator/generator do tworzenia aplikacji w oparciu o moduły
  + PL [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/) 
  + EU [roadmap.oneday.run](https://roadmap.oneday.run/#/)
-+ specjalizowane narzędziaa:
+
+specjalizowane narzędziaa:
  + ...  
+
 
 ## Czym jest Webstream?
 
