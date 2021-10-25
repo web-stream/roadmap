@@ -43,12 +43,52 @@ specjalizowane narzędziaa:
 
 ## Czym jest Webstream?
 
-[docs.webstream.dev](https://docs.webstream.dev/#/)
++ [about.webstream.dev](https://about.webstream.dev/#/)
++ [docs.webstream.dev](https://docs.webstream.dev/#/)
+
+
+## Cele Projektu
+
+projekt opensource może być komercyjny i takim chcemy go uczynić aby był
+wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów
+w celu wypracowania najlepszego dla nich rozwiązania,
+Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
+
+
+## Co mamy dziś
+
++ działającą bibliotekę
++ potwierdzenie od kilku programistów, że to ciekawe rozwiązanie
++ brak społeczności
++ brak rozpoznawalności
++ brak zewnętrznego finansowania
+
+
+## Plany
+
++ rozwój oprogramowania
++ podwyższenie jakości
++ rozwój dokumentacji, tutoriali, 
++ nagrywanie filmów instruktazowych i webinarów
++ zbieranie infromacji od społeczności, dosknalenie rozwiązania
++ tworzenie nowych kanałów dystrybucji
++ zwiększanie integracji w już istniejących rozwiazaniach
+
+## Jakie finansowanie może optymalnie przyśpieszyć rozwój?
+
+każdy developer to koszt rzędu tysięcy EUR
+aby zminimalizować koszty na początku można zwiekszyć ilośc programistów a zmniejszyć czas poświęcony na rozwój
+Gdyż obecna faza nie wymaga długofalowego rozwoju, reaktoringu a jedynie polepszenie jakości, uzupełnienie.
+Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać zadania w 3 godzinnych sesjach:
+
+[task.webstream.dev](https://task.webstream.dev/#/)
+
+
 
 ## Sposób promowania
 
 
-+ ogłoszenia pracy, aktywny udział w projekcie
++ ogłoszenia pracy, aktywny udział w projekcie, https://www.linkedin.com/hiring/jobs/2751716116/
 + działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
 + influencerzy w IT, aktywowanie społeczności, informowanie
 
@@ -157,33 +197,6 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 
 ## Crowdfunding dla twórców
 + patronite
-
-# Cele Projektu
-
-projekt opensource może być komercyjny i takim chcemy go uczynić aby był
-wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów
-w celu wypracowania najlepszego dla nich rozwiązania,
-Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
-
-
-## Co mamy dziś
-
-+ działającą bibliotekę
-+ potwierdzenie od kilku programistów, że to ciekawe rozwiązanie
-+ brak społeczności
-+ brak rozpoznawalności
-+ brak zewnętrznego finansowania
-
-
-## Plany
-
-+ rozwój oprogramowania
-+ podwyższenie jakości
-+ rozwój dokumentacji, tutoriali, 
-+ nagrywanie filmów instruktazowych i webinarów
-+ zbieranie infromacji od społeczności, dosknalenie rozwiązania
-+ tworzenie nowych kanałów dystrybucji
-+ zwiększanie integracji w już istniejących rozwiazaniach
 
 
 ---
