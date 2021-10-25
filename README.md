@@ -221,6 +221,11 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + patronite
 
 
+## O firmie Softreck
++ [Softreck - Leadership Through Software Development](https://softreck.pl/)
++ [culture.softreck.dev](https://culture.softreck.dev/#/)
+
+
 ---
 + [edit](https://github.com/web-stream/roadmap/edit/main/README.md)
 
