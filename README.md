@@ -21,7 +21,10 @@ I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce
 Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania, przygotowywania kodu przez programiastę
 
 
-## Ekosystem [Roadmap of wapka project | roadmap](https://roadmap.wapka.pl/) / [roadmap.modula.dev](https://roadmap.modula.dev/#/)
+## Ekosystem 
++ PL [Roadmap of wapka project](https://roadmap.wapka.pl/)
++ EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
++ 
 Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
 dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
