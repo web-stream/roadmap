@@ -1,29 +1,5 @@
 ![logo webstream](https://logo.webstream.dev/3/cover.png)
 
-# [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
-Roadmap of Web Stream Dev Project
-
-## Tło
-
-Internet jest ideą łaczenia treści w sposób zdecentralizowany.
-Coraz więcej treści jest pobieranych asynchronicznie dlatego nastąpił rozwój funkcji clouser.
-Strona www jest tworzona przez generator stron lub zespół ludzi, którzy korzystają z różnych usług,jak marketing, monitoring, itd
-
-Webstream odpowiada na potrzeby związane z budowaniem aplikacji w oparciu o treści i usługi dostępne do dystrybucji treści.
-Został stworzony jako część ekosystemu do prototypowania: 
-[wapka.pl - Roadmap of wapka project](https://roadmap.wapka.pl/)
-
-Dodatkowo zakładamy, że strona www w przeglądarce nigdy się nie skończy, dając możliwość ciągłeo streamowania danych, 
-zmieniając interfejs, podłączając nowe usłgui w locie.
-
-Rezultat to brak potrzeby przełączania tabs.
-I pełna kontrola nad treścią nad stroną, zdarzeniami jakie mają tam miejsce w ustandaryzowany sposób.
-
-## Inne rozwiązania na rynku
-
-Obecnie jest do dyspozycji frameworki, jednak wymagają kompilowania, przygotowywania kodu przez programiastę
-
-
 ## Ekosystem 
 + PL [Roadmap of wapka project](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
@@ -40,8 +16,10 @@ edytor/komunikator/generator do tworzenia aplikacji w oparciu o moduły
  + PL [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/) 
  + EU [roadmap.oneday.run](https://roadmap.oneday.run/#/)
 
-specjalizowane narzędziaa:
- + ...  
+specjalizowane narzędzia:
+ + do generowania aplikacji - webaplikacja.pl
+ + formularz.pl
+ + [www.multisitemap.com](https://www.multisitemap.com/) 
 
 
 ## Czym jest Webstream?
@@ -49,6 +27,11 @@ specjalizowane narzędziaa:
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [docs.webstream.dev](https://docs.webstream.dev/#/)
 + [src.webstream.dev](https://src.webstream.dev/#/)
+
+
+Roadmap of Web Stream Dev Project
++ [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
+
 
 
 ## Cele Projektu
