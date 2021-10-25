@@ -25,9 +25,18 @@ specjalizowane narzędzia:
 ## Czym jest Webstream?
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
-+ [docs.webstream.dev](https://docs.webstream.dev/#/)
++ [www.webstream.dev](https://www.webstream.dev)
++ [docs.webstream.dev](https://docs.webstream.dev)
 + [src.webstream.dev](https://src.webstream.dev/#/)
++ [demo.webstream.dev](https://demo.webstream.dev)
++ [tutorial.webstream.dev](https://tutorial.webstream.dev)
 
+For contributors
+
++ [job.webstream.dev](https://job.webstream.dev/#/)
++ [start.webstream.dev](https://start.webstream.dev/#/)
++ [tools.webstream.dev](https://tools.webstream.dev/#/)
++ [task.webstream.dev](https://task.webstream.dev)
 
 Roadmap of Web Stream Dev Project
 + [roadmap.webstream.dev](https://roadmap.webstream.dev/#/)
