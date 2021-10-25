@@ -166,6 +166,13 @@ zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
   + udostępnianie
  
  
+
+## Budowanie społeczności opensource
+
+Promowanie autorów opensource 
++ gitcast.pl do promocji 
+  
+  
 ### Influencerzy w IT
  
 + tworzenie filmów
@@ -175,9 +182,24 @@ zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 
 ### Agregatory bibliotek
 
+## kolejne rozwiązania
+
+
+### Dystrybucja webstream poprzez auto deployment
+
+wykorzystywane przez programistów, którzy tworzą rozszerzenia i klientów, którzy chcą sami uruchomić daną aplikację, np kupioną na licencji
+
+Dsytrybucja przy wykorzystaniu providerów hostingu i chmury poprzez usługi deploymentu, uruchamiania aplikacji:
+
++ www: deployment.pl
+  + opisy dla programistow
+  + button: deployment.pl
+
+
 ### plugin do przeglądarek
 
 ### plugin do narzędzia
+
 
 ## strony www do generowania specjalizowanych apek, 
 tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
