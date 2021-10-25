@@ -158,7 +158,20 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 ## Crowdfunding dla twórców
 + patronite
 
-##
+# Cele Projektu
+projekt opensource może być komercyjny i takim chcemy go uczynić aby był
+wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów
+w celu wypracowania najlepszego dla nich rozwiązania,
+Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
+
++ rozwój oprogramowania
++ podwyższenie jakości
++ rozwój dokumentacji, tutoriali, 
++ nagrywanie filmów instruktazowych i webinarów
++ zbieranie infromacji od społeczności, dosknalenie rozwiązania
++ tworzenie nowych kanałów dystrybucji
++ zwiększanie integracji w już istniejących rozwiazaniach
+
 
 
 ---
