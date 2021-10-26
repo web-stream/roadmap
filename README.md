@@ -27,12 +27,18 @@ specjalizowane narzędzia:
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [www.webstream.dev](https://www.webstream.dev)
 
+
 Dokumentacja
 
 + [docs.webstream.dev](https://docs.webstream.dev)
++ [tutorial.webstream.dev](https://tutorial.webstream.dev)
+
+
+Kod źródłowy
+
 + [src.webstream.dev](https://src.webstream.dev/#/)
 + [demo.webstream.dev](https://demo.webstream.dev)
-+ [tutorial.webstream.dev](https://tutorial.webstream.dev)
+
 
 For contributors
 
@@ -44,9 +50,15 @@ For contributors
 
 ## Cele Projektu
 
-projekt opensource może być komercyjny i takim chcemy go uczynić aby był wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów w celu wypracowania najlepszego dla nich rozwiązania,
-Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
-bazujemy na pryncypiach oraz idei modularyzacji:
+Prawie każdy projekt opensource może być komercyjny i takim chcemy go uczynić!
+Interesuje nas wysokiej jakości rozwiązanie na dekady, dlatego potrzebne jest:
++ zaangażowanie społeczności 
++ specjalistów, programistów 
++ software house-ów w celu wypracowania najlepszego dla nich rozwiązania
+
+Chcemy dostarczyć najlepszej jakości support dla aktualnych uzytkowników i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
+
+Bazujemy na pryncypiach oraz idei modularyzacji:
 + [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
 + [principles.webstream.dev](https://principles.webstream.dev/#/)
 
