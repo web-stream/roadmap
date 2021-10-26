@@ -1,7 +1,7 @@
 ![logo webstream](https://logo.webstream.dev/3/cover.png)
 
 ## Ekosystem 
-+ PL [Roadmap of wapka project](https://roadmap.wapka.pl/)
++ PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
  
 Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
