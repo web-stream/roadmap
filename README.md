@@ -62,6 +62,7 @@ Bazujemy na pryncypiach oraz idei modularyzacji:
 + [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
 + [principles.webstream.dev](https://principles.webstream.dev/#/)
 
+
 ## Co mamy dziś
 
 + działającą bibliotekę, [src.webstream.dev](https://src.webstream.dev) 
@@ -176,7 +177,8 @@ Dsytrybucja przy wykorzystaniu providerów hostingu i chmury poprzez usługi dep
 ### plugin do narzędzia
 
 
-## strony www do generowania specjalizowanych apek, 
+## strony www do generowania specjalizowanych apek
+
 tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 
 # Finansowanie
@@ -189,7 +191,8 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + na platformie github
 + ...
 
-## crowdufunding dla projektów opensource
+## crowdfunding dla projektów opensource
+
 + [crowdfunding.webstream.dev](https://crowdfunding.webstream.dev/#/)
 + https://opencollective.com/webstream
 
