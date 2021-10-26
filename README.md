@@ -110,6 +110,7 @@ Udostepnianie usług
 
 Każdy developer to koszt rzędu tysięcy EUR, aby zminimalizować koszty na początku można zwiekszyć ilośc programistów a zmniejszyć czas poświęcony na rozwój
 
+
 ## Aktualne zadania
 
 Gdyż obecna faza nie wymaga długofalowego rozwoju, reaktoringu a jedynie polepszenie jakości, uzupełnienie.
@@ -178,7 +179,12 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 + ...
 
 ## crowdufunding dla projektów opensource
++ [crowdfunding.webstream.dev](https://crowdfunding.webstream.dev/#/)
 + https://opencollective.com/webstream
+
+## the equity model 
+the equity model will be great, but how to do it today, when I haven't even one income from webstream project? And today I am the first and only one sponsor..
+I am creating the ecosystem to make a software devlopment rapidly, so it can be very good income after everything wil be prepared, but what I can offer and how today?
 
 ## Crowdfunding dla twórców
 + patronite
