@@ -25,7 +25,6 @@ specjalizowane narzędzia:
 ## Czym jest Webstream?
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
-+ [principles.webstream.dev](https://principles.webstream.dev/#/)
 + [www.webstream.dev](https://www.webstream.dev)
 
 Dokumentacja
@@ -45,11 +44,11 @@ For contributors
 
 ## Cele Projektu
 
-projekt opensource może być komercyjny i takim chcemy go uczynić aby był
-wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów
-w celu wypracowania najlepszego dla nich rozwiązania,
+projekt opensource może być komercyjny i takim chcemy go uczynić aby był wysokiej jakości rozwiązaniem na dekady, dlatego potrzebne jest zaangażowanie społeczności programistów i software house-ów w celu wypracowania najlepszego dla nich rozwiązania,
 Następnie można skupić się na pielęgnacji już wypracowanej formy i przejść do etapu komercjalizacji powstałych modułów, pluginów, rozszerzeń, API
-
+bazujemy na pryncypiach oraz idei modularyzacji:
++ [Modularyzacja przy wytwarzaniu oprogramowania.](https://www.hipermodularyzacja.pl/)
++ [principles.webstream.dev](https://principles.webstream.dev/#/)
 
 ## Co mamy dziś
 
