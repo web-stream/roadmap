@@ -1,10 +1,13 @@
 ![logo webstream](https://logo.webstream.dev/3/cover.png)
 
-## Ekosystem 
+## Ekosystem szybkiego dostarczania web-aplikacji
+
+Ekosystem wapka.pl jest oparty o biblitekę webstream.dev i gotowe moduły w marketplace: mvps.dev
+
 + PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
  
-Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
+Gdzie nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
 Użytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
 marketplace aplikacji i modułów opartych o webstream:
