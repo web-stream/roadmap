@@ -4,8 +4,8 @@
 + PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
  
-Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać HTML a jedynie moduły jakie chcemy połączyć ze sobą
-dlatego aby zwykłu uzytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
+Ekosystem rozwiązań opartych o biblitoekę webstream, gdzie nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
+Użytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
 marketplace aplikacji i modułów opartych o webstream:
  + PL [roadmap.application.pl](https://roadmap.application.pl/#/) 
