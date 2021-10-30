@@ -2,45 +2,44 @@
 
 Biblioteka [Web Stream Dev](https://www.modula.dev/#/) jest elementem ekosystemu [wapka.pl](https://roadmap.wapka.pl/) do szybkiego dostarczania web-aplikacji
 
+---
+
+
+![JavaScript](https://web-stream.github.io/roadmap/front_icon_1.png)
+
+## JavaScript
+
+"The Language of the Web" is used everywhere - your laptop, phone, TV, and the servers that power the internet.
+ **With WebStream you can use it on a low power microcontroller too!**
+
+![Responsive, Instant Feedback](https://web-stream.github.io/roadmap/front_icon_2.png)
+
+## Responsive
+
+Web Stream Dev is an library. It gives you instant feedback so you can view, debug and modify your program **while it is running**
+
+![Open Source](https://web-stream.github.io/roadmap/front_icon_4.png)
+
+## Fully Open Source
+
+Hardware (CC-BY-SA), software (MPLv2), and documentation. Add functionality, tweak it, or just browse and see how it works.
+
+![KickStarter Crowdfunded](https://web-stream.github.io/roadmap/front_icon_3.png)
+
+## Crowdfunded
+
+Three webstream library were crowdfunded using KickStarter. See the campaigns:
+ 
+ * * *
+
+---
+
+## Bibliteka Web Stream Dev
+
 Bibliteka pozwala na tworzenie zmodularyzowanej aplikacji za pomocą modułów dostępnych w marketplace: [mvps.dev](https://mvps.dev/#/) lub napisanych samodzielnie.
 
-Gdzie nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
-Użytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
-
-
-
----
-
-> 
-> ![JavaScript](https://web-stream.github.io/roadmap/front_icon_1.png)
-> 
-> ## JavaScript
-> 
-> "The Language of the Web" is used everywhere - your laptop, phone, TV, and the servers that power the internet.
->  **With WebStream you can use it on a low power microcontroller too!**
-> 
-> ![Responsive, Instant Feedback](https://web-stream.github.io/roadmap/front_icon_2.png)
-> 
-> ## Responsive
-> 
-> Web Stream Dev is an library. It gives you instant feedback so you can view, debug and modify your program **while it is running**
-> 
-> ![Open Source](https://web-stream.github.io/roadmap/front_icon_4.png)
-> 
-> ## Fully Open Source
-> 
-> Hardware (CC-BY-SA), software (MPLv2), and documentation. Add functionality, tweak it, or just browse and see how it works.
-> 
-> ![KickStarter Crowdfunded](https://web-stream.github.io/roadmap/front_icon_3.png)
-> 
-> ## Crowdfunded
-> 
-> Three webstream library were crowdfunded using KickStarter. See the campaigns:
-> 
-> * * *
-
----
-## Czym jest Webstream?
+Aby używać zmodularyzowanej architektury nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
+Aby zbudować aplikacje z gotowych modułów nie potrzeba narzedzi.
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
 + [www.webstream.dev](https://www.webstream.dev)
@@ -56,14 +55,6 @@ Kod źródłowy
 
 + [src.webstream.dev](https://src.webstream.dev/#/)
 + [demo.webstream.dev](https://demo.webstream.dev)
-
-
-For contributors
-
-+ [job.webstream.dev](https://job.webstream.dev/#/)
-+ [start.webstream.dev](https://start.webstream.dev/#/)
-+ [tools.webstream.dev](https://tools.webstream.dev/#/)
-+ [task.webstream.dev](https://task.webstream.dev)
 
 
 ## Cele Projektu
@@ -106,9 +97,13 @@ Bazujemy na pryncypiach oraz idei modularyzacji:
 + zwiększanie integracji w już istniejących rozwiazaniach
 
 
-# Środowisko
 
-## Devops
+# Komercjalizacja
+
+## One Day Run
+
+## Softreck.Cloud
+
 
 Domena + dns + vps
 
@@ -125,9 +120,6 @@ Domena + dns + vps
       + 
     + własny hosting, ionos / NO API
 
-# Komercjalizacja
-
-## Softreck.Cloud
 
 Marketplace providerów
 Integracja API providerów:
@@ -136,25 +128,37 @@ Integracja API providerów:
 
 Udostepnianie usług
 
-## Jakie finansowanie może optymalnie przyśpieszyć rozwój?
-
-Każdy developer to koszt rzędu tysięcy EUR, aby zminimalizować koszty na początku można zwiekszyć ilośc programistów a zmniejszyć czas poświęcony na rozwój
+# Jak wesprzeć projekt Webstream?
 
 
-## Aktualne zadania
-
-Gdyż obecna faza nie wymaga długofalowego rozwoju, reaktoringu a jedynie polepszenie jakości, uzupełnienie.
-Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać zadania w 3 godzinnych sesjach:
-
-+ [task.webstream.dev](https://task.webstream.dev/#/)
+Współpraca jest możliwa na wielu poziomach z róznymi organizacjami, usługodawcami, specjalistami i influencerami: finansowanie poprzez donacje, sponsoring, reklamy, inwestycje, kooperacje, sprzedaż usług providerów, freelancerów
 
 
-## Jak wesprzeć projekt Webstream?
+## Software development i Support
 
-Współpraca jest możliwa na wielu poziomach z róznymi organizacjami, usługodawcami, specjalistami i influencerami:
-+ finansowanie poprzez donacje, sponsoring, reklamy, inwestycje, kooperacje, sprzedaż usług providerów, freelancerów
++ Obecna faza wymaga wsparcia przy:
++ reaktoringu w celu zwiększenia jakości kodu i struktury projektu
++ tworzenie środowiska testowego wraz z różnymi testami, unitest, integration test, itd
++ pisanie i uzupełnienie dokumentacji
++ wsparcie partnerów i klientów
 
-Fromy promocji projektu mogą być wspierane przez:
+Sama architektura, hipermodularna jest mało wymagająca, gdyż pozwala zamykać zadania związane z rozwojem w 3 godzinnych sesjach:
+Zapraszam do współpracy:
+
++ [start.webstream.dev](https://start.webstream.dev/#/)
++ [tools.webstream.dev](https://tools.webstream.dev/#/)
++ [task.webstream.dev](https://task.webstream.dev)
+
+
+Job
+
++ [job.webstream.dev](https://job.webstream.dev/#/)
++ [volunteer.webstream.dev](https://volunteer.webstream.dev/#/)
+
+
+## Promocja
+
+Formy promocji projektu mogą być wspierane przez:
 + ogłoszenia pracy, aktywny udział w projekcie, https://www.linkedin.com/hiring/jobs/2751716116/
 + działalność ambasadorów projektu, anażowanie innych poprzez aktywne rozmowy
 + influencerzy w IT, aktywowanie społeczności, informowanie
@@ -168,7 +172,7 @@ Poszerzanie grona użytkowników:
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
 
 
-# Dystrybucja
+## Dystrybucja
 + Sposób dystrybucji
 
 Zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
@@ -176,10 +180,7 @@ Zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 + Agregatory bibliotek
 + 
 
-## kolejne rozwiązania
-+  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
-
-### Dystrybucja webstream poprzez auto deployment
+## Dystrybucja webstream poprzez auto deployment
 
 wykorzystywane przez programistów, którzy tworzą rozszerzenia i klientów, którzy chcą sami uruchomić daną aplikację, np kupioną na licencji
 
@@ -204,6 +205,12 @@ tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
 
 # Finansowanie
 
+
+## Jakie finansowanie może optymalnie przyśpieszyć rozwój?
+
+Każdy developer to koszt rzędu tysięcy EUR, aby zminimalizować koszty na początku można zwiekszyć ilośc programistów a zmniejszyć czas poświęcony na rozwój
+
+
 ## Sponsoring
 software house-y i freelancerzy wykrozystujący bibliotekę, mogą dofinansować projekt i mieć wpływ na jego rozwój.
 aby był aktualziowany, rozwijany i przynosił im korzyści pozwalając zatrudniać juniorów u siebie do rozwijania aplikacji opartych o webstream
@@ -224,7 +231,13 @@ I am creating the ecosystem to make a software devlopment rapidly, so it can be 
 ## Crowdfunding dla twórców
 + patronite
 
+
+
+
 # Inne projekty
+
+## kolejne rozwiązania
++  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
 
 + PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
