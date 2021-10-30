@@ -238,7 +238,7 @@ I am creating the ecosystem to make a software devlopment rapidly, so it can be 
 
 # Inne projekty
 
-
+Ekosystem wapka/modula
 + PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
  
@@ -257,7 +257,8 @@ specjalizowane narzędzia:
  + [www.multisitemap.com](https://www.multisitemap.com/) 
  
 
-kolejne rozwiązania
+Rozwiązania IoT
+
 +  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
 
 
