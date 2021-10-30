@@ -1,4 +1,4 @@
-[![logo webstream](https://logo.webstream.dev/3/cover.png)](https://www.wapka.pl/)
+[![logo webstream](https://logo.webstream.dev/3/default.png)](https://www.webstream.dev/)
 
 ## Ekosystem szybkiego dostarczania web-aplikacji
 
