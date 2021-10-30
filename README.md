@@ -153,16 +153,16 @@ Poszerzanie grona użytkowników:
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
 
 
-## Sposób dystrybucji
+# Dystrybucja
++ Sposób dystrybucji
 
-zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
-
-### Portale do porównywania różnych rozwiązań techniczncyh
-
-### Agregatory bibliotek
+Zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
++ Portale do porównywania różnych rozwiązań techniczncyh
++ Agregatory bibliotek
++ 
 
 ## kolejne rozwiązania
-
++  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
 
 ### Dystrybucja webstream poprzez auto deployment
 
@@ -183,6 +183,9 @@ Dsytrybucja przy wykorzystaniu providerów hostingu i chmury poprzez usługi dep
 ## strony www do generowania specjalizowanych apek
 
 tworzenie prototypów w locie na podstawie krótkich sprecyzowanych ankiet
+
+
+
 
 # Finansowanie
 
