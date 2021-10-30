@@ -1,31 +1,15 @@
 [![logo webstream](https://logo.webstream.dev/3/default.png)](https://www.webstream.dev/)
 
-## Ekosystem szybkiego dostarczania web-aplikacji
+Biblioteka [Web Stream Dev](https://www.modula.dev/#/) jest elementem ekosystemu [wapka.pl](https://roadmap.wapka.pl/) do szybkiego dostarczania web-aplikacji
 
-Ekosystem wapka.pl jest oparty o biblitekę webstream.dev i gotowe moduły w marketplace: mvps.dev
+Bibliteka pozwala na tworzenie zmodularyzowanej aplikacji za pomocą modułów dostępnych w marketplace: [mvps.dev](https://mvps.dev/#/) lub napisanych samodzielnie.
 
-+ PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
-+ EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
- 
 Gdzie nie trzeba znać zasad programowania a jedynie strukturę dokumentu HTML oraz moduły jakie chcemy użyć.
 Użytkownik mógł zbudować aplikacje, potrzebuje ju ż gotowych modułów, oraz narzędzia które będą go wspierały w budowaniu i utrzymaniu własnej apikacji:
 
-marketplace aplikacji i modułów opartych o webstream:
- + PL [roadmap.application.pl](https://roadmap.application.pl/#/) 
- + EU [roadmap.webapks.com](https://roadmap.webapks.com/)
- 
 
-edytor/komunikator/generator do tworzenia aplikacji w oparciu o moduły
- + PL [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/) 
- + EU [roadmap.oneday.run](https://roadmap.oneday.run/#/)
-
-specjalizowane narzędzia:
- + do generowania aplikacji - webaplikacja.pl
- + formularz.pl
- + [www.multisitemap.com](https://www.multisitemap.com/) 
 
 ---
-[Roadmap of Wapka ecosystem](https://roadmap.wapka.pl/)
 
 > 
 > ![JavaScript](https://web-stream.github.io/roadmap/front_icon_1.png)
@@ -240,8 +224,28 @@ I am creating the ecosystem to make a software devlopment rapidly, so it can be 
 ## Crowdfunding dla twórców
 + patronite
 
+# Inne projekty
+
++ PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
++ EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
+ 
+marketplace aplikacji i modułów opartych o webstream:
+ + PL [roadmap.application.pl](https://roadmap.application.pl/#/) 
+ + EU [roadmap.webapks.com](https://roadmap.webapks.com/)
+ 
+
+edytor/komunikator/generator do tworzenia aplikacji w oparciu o moduły
+ + PL [roadmap.prototypowanie.pl](https://roadmap.prototypowanie.pl/#/) 
+ + EU [roadmap.oneday.run](https://roadmap.oneday.run/#/)
+
+specjalizowane narzędzia:
+ + do generowania aplikacji - webaplikacja.pl
+ + formularz.pl
+ + [www.multisitemap.com](https://www.multisitemap.com/) 
+ + 
 
 + [partnership.webstream.dev](https://partnership.webstream.dev/#/)
+
 
 # O firmie Softreck
 
