@@ -24,7 +24,38 @@ specjalizowane narzędzia:
  + formularz.pl
  + [www.multisitemap.com](https://www.multisitemap.com/) 
 
+---
+[Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 
+> 
+> ![JavaScript](https://www.webstream.com/images/front_icon_1.png)
+> 
+> ## JavaScript
+> 
+> "The Language of the Web" is used everywhere - your laptop, phone, TV, and the servers that power the internet.
+>  **With WebStream you can use it on a low power microcontroller too!**
+> 
+> ![Responsive, Instant Feedback](https://www.webstream.com/images/front_icon_2.png)
+> 
+> ## Responsive
+> 
+> Web Stream Dev is an library. It gives you instant feedback so you can view, debug and modify your program **while it is running**
+> 
+> ![Open Source](https://www.webstream.com/images/front_icon_4.png)
+> 
+> ## Fully Open Source
+> 
+> Hardware (CC-BY-SA), software (MPLv2), and documentation. Add functionality, tweak it, or just browse and see how it works.
+> 
+> ![KickStarter Crowdfunded](https://www.webstream.com/images/front_icon_3.png)
+> 
+> ## Crowdfunded
+> 
+> Three webstream library were crowdfunded using KickStarter. See the campaigns:
+> 
+> * * *
+
+---
 ## Czym jest Webstream?
 
 + [about.webstream.dev](https://about.webstream.dev/#/)
