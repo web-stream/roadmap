@@ -1,4 +1,4 @@
-![logo webstream](https://logo.webstream.dev/3/cover.png)
+[![logo webstream](https://logo.webstream.dev/3/cover.png)](https://www.wapka.pl/)
 
 ## Ekosystem szybkiego dostarczania web-aplikacji
 
@@ -25,7 +25,7 @@ specjalizowane narzędzia:
  + [www.multisitemap.com](https://www.multisitemap.com/) 
 
 ---
-[Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
+[Roadmap of Wapka ecosystem](https://roadmap.wapka.pl/)
 
 > 
 > ![JavaScript](https://web-stream.github.io/roadmap/front_icon_1.png)
