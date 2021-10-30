@@ -173,12 +173,13 @@ Poszerzanie grona użytkowników:
 
 
 ## Dystrybucja
+
 + Sposób dystrybucji
 
 Zdobywanie nowych kanałów dystrybucji informacji o webstream, za pomocą:
 + Portale do porównywania różnych rozwiązań techniczncyh
 + Agregatory bibliotek
-+ 
+
 
 ## Dystrybucja webstream poprzez auto deployment
 
@@ -228,6 +229,7 @@ zmniejszając koszty prowadzenia prototypowych projektów.
 the equity model will be great, but how to do it today, when I haven't even one income from webstream project? And today I am the first and only one sponsor..
 I am creating the ecosystem to make a software devlopment rapidly, so it can be very good income after everything wil be prepared, but what I can offer and how today?
 
+
 ## Crowdfunding dla twórców
 + patronite
 
@@ -236,8 +238,6 @@ I am creating the ecosystem to make a software devlopment rapidly, so it can be 
 
 # Inne projekty
 
-## kolejne rozwiązania
-+  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
 
 + PL [Roadmap of wapka ecosystem](https://roadmap.wapka.pl/)
 + EN [roadmap.modula.dev](https://roadmap.modula.dev/#/)
@@ -255,9 +255,10 @@ specjalizowane narzędzia:
  + do generowania aplikacji - webaplikacja.pl
  + formularz.pl
  + [www.multisitemap.com](https://www.multisitemap.com/) 
- + 
+ 
 
-+ [partnership.webstream.dev](https://partnership.webstream.dev/#/)
+kolejne rozwiązania
++  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
 
 
 # O firmie Softreck
