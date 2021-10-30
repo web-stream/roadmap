@@ -260,7 +260,8 @@ specjalizowane narzędzia:
 Rozwiązania IoT
 
 +  IoT dla małych urządzeń bez systemu operacyjnego i mozliwości uruchomienia standardowej przeglądarki jak raspberry pi python
-
++ [Espruino - JavaScript for Microcontrollers](https://www.espruino.com/#)
++ [Raspberry Pi Pico – Python](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 
 # O firmie Softreck
 
