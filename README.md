@@ -95,7 +95,7 @@ Bazujemy na pryncypiach oraz idei modularyzacji:
 + zbieranie infromacji od społeczności, dosknalenie rozwiązania
 + tworzenie nowych kanałów dystrybucji
 + zwiększanie integracji w już istniejących rozwiazaniach
-
++ webassembly -> https://webkit.org/blog/7691/webassembly/
 
 
 # Komercjalizacja
